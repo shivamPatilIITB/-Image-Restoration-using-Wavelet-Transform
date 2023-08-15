@@ -7,9 +7,12 @@ Paper explaining neighbourhood shrink method used in this assignment is availabl
 
 **Resume Points:**
 **Image Restoration using Wavelet Transform** | Image Processing
+
 Instructor: Prof. Amit Sethi, Electrical Engineering, IIT Bombay | Python (Sep’22 - Oct’22)
+
 (a) Implemented soft & hard thresholding on discrete wavelet transform coefficients for denoising color images
 degraded by AWGN and Gaussian blurring and obtained SSIM index of 94% and 97.5% respectively
+
 (b) Further improved the SSIM score to 98.25% by using soft thresholding based on neighbourhood shrink
 
 For verifying point (a) please see "Important Points" below question 3(c) in the colab notebook for SSIM index of 94%: Soft thresholding
